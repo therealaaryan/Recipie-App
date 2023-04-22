@@ -11,9 +11,9 @@ Usage
 The recipe app allows you to search for a particular recipe by typing the name of the recipe in the search bar and clicking on the "Search" button. The app will then display the ingredients, servings, and instructions for the selected recipe in a card.
 
 Built With
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript and
 Bootstrap 5 - a popular CSS framework
 
 Acknowledgments
